@@ -1,0 +1,17 @@
+Assistora Demo Company
+
+Products:
+Assistora Support costs ₹999 per month.
+Assistora CRM costs ₹1499 per month.
+
+Refund Policy:
+Customers can request a refund within 7 days.
+Approved refunds are processed within 5 business days.
+
+Support Hours:
+Monday to Friday: 9 AM to 6 PM.
+Saturday: 10 AM to 2 PM.
+Sunday: Closed.
+
+Support Email:
+support@assistora-demo.example
